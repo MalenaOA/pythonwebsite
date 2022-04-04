@@ -122,12 +122,3 @@ def submit_form():
             return 'did not save to database'
     else:
         return "try again"
-
-# GITHUB GIT PYTHONANYWHERE
-1) create or sign in to account in pythonanywhere
-email: malena.oa.89@gmail.com
-user name: malenaorduna
-password: xJ$QCxXNhU8Fqm$
-2) go to github and create new repository
-3) clone repository in desired folder using pycharm terminal
-4) to get the requirements.txt run in the python project folder "pip freeze > requirements.txt" and copy to the github folder
